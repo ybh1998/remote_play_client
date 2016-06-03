@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>update.qml</file>
+        <file>vars.js</file>
+        <file>login.qml</file>
+        <file>menu.qml</file>
+        <file>player.qml</file>
+        <file>ctrls/MousePad.qml</file>
+        <file>ctrls/MovePad.qml</file>
+        <file>setting.qml</file>
+    </qresource>
+</RCC>
